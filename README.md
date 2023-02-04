@@ -27,7 +27,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+[![](https://visitcount.itsvg.in/api?id=j1yl&label=Profile%20Views&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
 ![Stats](https://github-readme-stats.vercel.app/api?username=j1yl)
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=j1yl)
 
